@@ -1,9 +1,32 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 h1{
     font-size: 50px;
 }
 .name-color{
     color: orange;
+}
+.header-section{
+    background-image: url(../images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.header-text{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-right: 2%;
+}
+.header-image{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-right: 2%;
+}
+.header-image img{
+    width: 100%;
+}
+section{
+    height: 500px;
 }
